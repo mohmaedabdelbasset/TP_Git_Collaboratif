@@ -1,3 +1,5 @@
 TP de Génie Logiciel
 Découverte de Git
 Git est un système de gestion de versions. je sius le rois
+Nouvelle fonctionnalité : gestion des branches.
+Cette modification est réalisée dans la branche feature.
